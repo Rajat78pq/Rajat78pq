@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Flows-Automation-00A1E0?style=flat" />
   <img src="https://img.shields.io/badge/Agentforce-AI-6F42C1?style=flat" />
   <img src="https://img.shields.io/badge/Security%20%26%20Sharing-Salesforce-00A1E0?style=flat" />
+  <img src="https://img.shields.io/badge/Salesforce-Integration-00A1E0?style=flat&logo=salesforce&logoColor=white" />
 </p>
 
 ### 💻 Full-Stack Development
