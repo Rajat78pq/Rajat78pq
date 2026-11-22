@@ -1,29 +1,115 @@
- <h1 align="center">Hi 👋, I'm Rajat kumar Jena</h1>
-<h3 align="center">A passionate Full Stack & Salesforce developer from India</h3>
-<video width="400" height="240" align="right" src="https://cdnl.iconscout.com/lottie/premium/thumb/programmer-4375641-3645911.mp4" type="video/mp4"></video>
+<h1 align="center">Hi 👋, I'm Rajat Kumar Jena</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat78pq&label=Profile%20views&color=0e75b6&style=flat" alt="rajat78pq" /> </p>
+<h3 align="center">☁️ Salesforce Developer | 🏆 Trailhead Ranger | 💻 Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **Salesforce Dev & Agentforce**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rajat-kumar-jena-a2398a273/](https://www.linkedin.com/in/rajat-kumar-jena-a2398a273/)
-
-- 💬 Ask me about **Salesforce Development**
-
-- 📫 How to reach me **rajatkumarjena767@gmail.com**
-
-- ⚡ Fun fact **I Think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajat-kumar-jena-a2398a273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajat-kumar-jena-a2398a273/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.salesforce.com/trailblazer/pzdhb4wqajrofd5ke2">
+    <img src="https://img.shields.io/badge/Salesforce-Trailhead%20Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00A1E0&center=true&vCenter=true&width=600&lines=Salesforce+Developer;Building+with+Apex+%26+LWC;Exploring+Agentforce+%26+AI;Full-Stack+Development+Enthusiast" alt="Typing SVG" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat78pq&show_icons=true&locale=en&layout=compact" alt="rajat78pq" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat78pq&show_icons=true&locale=en" alt="rajat78pq" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat78pq&" alt="rajat78pq" /></p>
+- ☁️ Focused on **Salesforce Development & CRM Solutions**
+- 🏆 **Salesforce Trailhead Ranger**
+- ⚡ Working with **Apex, Lightning Web Components, SOQL & Salesforce Flows**
+- 🤖 Exploring **Agentforce and AI-powered applications**
+- 💻 Have a foundation in **Full-Stack Development**, including frontend and backend technologies
+- 🌱 Continuously learning, building projects, and improving my development skills
+
+---
+
+### ☁️ Salesforce Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Salesforce-Platform-00A1E0?style=flat&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-Development-1798C1?style=flat" />
+  <img src="https://img.shields.io/badge/LWC-Lightning%20Web%20Components-00A1E0?style=flat" />
+  <img src="https://img.shields.io/badge/SOQL%20%26%20SOSL-Query%20Languages-1B96FF?style=flat" />
+  <img src="https://img.shields.io/badge/Triggers-Apex-1798C1?style=flat" />
+  <img src="https://img.shields.io/badge/Flows-Automation-00A1E0?style=flat" />
+  <img src="https://img.shields.io/badge/Agentforce-AI-6F42C1?style=flat" />
+  <img src="https://img.shields.io/badge/Security%20%26%20Sharing-Salesforce-00A1E0?style=flat" />
+</p>
+
+### 💻 Full-Stack Development
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,dotnet,postgres,mongodb,tailwind" />
+  </a>
+</p>
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,c,html,css,git,github,docker,postman,vscode,linux" />
+  </a>
+</p>
+
+---
+
+### 🏆 Trailhead Profile
+
+<p align="center">
+  <a href="https://www.salesforce.com/trailblazer/pzdhb4wqajrofd5ke2">
+    <img src="https://img.shields.io/badge/Explore%20My-Trailhead%20Profile-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.salesforce.com/trailblazer/pzdhb4wqajrofd5ke2">
+    <b>View My Salesforce Trailblazer Profile →</b>
+  </a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/rajat78pq/Account-Contact-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat78pq&repo=Account-Contact-Management&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajat78pq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat78pq&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat78pq&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajat-kumar-jena-a2398a273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/pzdhb4wqajrofd5ke2" target="_blank">
+    <img src="https://img.shields.io/badge/Salesforce-Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
+</p>
+
+📫 **Email:** [rajatkumarjena767@gmail.com](mailto:rajatkumarjena767@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Keep learning, keep building, and keep growing."</i>
+</p>
